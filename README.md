@@ -1,9 +1,9 @@
 # taraMenu
 Menu themes and templates for taraKiosk
 
-## App Menu
+## Movie Menu
 ```
-https://github.com/lightning-tv/solid-demo-app
+https://github.com/solid-tv/solid-demo-app
 https://github.com/lightning-tv/solid-demo-app
 ```
 
