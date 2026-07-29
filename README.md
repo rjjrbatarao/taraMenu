@@ -6,7 +6,11 @@ Menu themes and templates for taraKiosk
 https://github.com/solid-tv/solid-demo-app
 https://github.com/lightning-tv/solid-demo-app
 ```
-
+## Glass Theme
+```
+https://github.com/Rayiumir/liquid-glass-css
+https://github.com/kayozxo/ulauncher-liquid-glass
+```
 ## Heroic Themes
 ```
 https://github.com/Heroic-Games-Launcher/heroic-themes
