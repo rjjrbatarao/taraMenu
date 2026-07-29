@@ -7,6 +7,11 @@ https://github.com/solid-tv/solid-demo-app
 https://github.com/lightning-tv/solid-demo-app
 ```
 
+## Heroic Themes
+```
+https://github.com/Heroic-Games-Launcher/heroic-themes
+```
+
 ## PS4 Menu
 ```
 https://github.com/d4v1-sudo/Ps4-UI
